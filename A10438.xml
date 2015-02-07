@@ -2815,10 +2815,17 @@
          <div type="colophon">
             <p>Iohe<g ref="char:cmbAbbrStroke">̄</g>s rastell me imprimi fecit</p>
             <p>Cum priuilegio regali</p>
-            <figure/>
-            <figure>
-               <head>Johannes Rastell</head>
-            </figure>
+            <p>
+               <pb facs="tcp:19968:15" rendition="simple:additions"/>
+               <figure/>
+            </p>
+            <p>
+               <pb facs="tcp:19968:16"/>
+               <figure>
+                  <head>Johannes Rastell</head>
+               </figure>
+               <pb facs="tcp:19968:16"/>
+            </p>
          </div>
       </back>
    </text>
